@@ -29,8 +29,7 @@ To use the IntuneWinAppUtil GUI, follow these steps:
 
 This application requires the following dependencies:
 
-- .NET Framework
-- Windows Forms
+- .NET Framework 5.0
 
 ## Contributing
 
