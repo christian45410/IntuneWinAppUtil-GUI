@@ -255,21 +255,6 @@ namespace IntuneWinAppUtil_GUI
             this.Close();
         }
 
-        private void inputDirectoryToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            BrowseInput();
-        }
-
-        private void outputDirectoryToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            BrowseOutput();
-        }
-
-        private void clearToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            ClearItems();
-        }
-
         private void updateToolStripMenuItem_Click(object sender, EventArgs e)
         {
             // Disable the update button to prevent multiple update requests
