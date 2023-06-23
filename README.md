@@ -16,14 +16,13 @@ This is a Windows Forms application written in C# that provides a graphical user
 
 To use the IntuneWinAppUtil GUI, follow these steps:
 
-1. Download the IntuneWinAppUtil.exe tool from the provided GitHub URL and place it in the same directory as the application.
-2. Run the application.
-3. If the IntuneWinAppUtil.exe is not found, the application will download it automatically from the Microsoft GitHub.
-4. Browse for the input file or folder you want to package.
-5. Choose an output path to save the packaged software.
-6. Click the "Start" button to initiate the packaging process.
-7. The command-line output will be displayed in the text box.
-8. You can update the required PowerShell modules by clicking the "Update" option in the menu and providing the URL for the updated software file.
+1. Run the application.
+2. If the IntuneWinAppUtil.exe is not found, the application will download it automatically from the Microsoft GitHub.
+3. Browse for the input file or folder you want to package.
+4. Choose an output path to save the packaged software.
+5. Click the "Start" button to initiate the packaging process.
+6. The command-line output will be displayed in the text box.
+7. You can update the required PowerShell modules by clicking the "Update" option in the menu and providing the URL for the updated software file.
 
 ## Dependencies
 
